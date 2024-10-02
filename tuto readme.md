@@ -52,6 +52,10 @@ _Ensemble des contributeurs du projet_
 
 _Règles de contributions_
 
+## Support et/ou documentation
+
+_Renseigne les utilisateurs sur où ils peuvent demander de l'aide et/ou des informations_
+
 ## License
 
 _License du projet_
