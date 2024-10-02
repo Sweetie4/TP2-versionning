@@ -6,7 +6,7 @@ TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot a
  Tutos : 
 * [GitFlow]()
 * [GitMoji]()
-* [README](/TP2-versionning/tuto%20readme.md)
+* [README](/tuto%20readme.md)
 
 ## Organisation
 
