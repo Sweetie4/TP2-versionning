@@ -5,7 +5,7 @@ TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot a
 ## Sommaire
  Tutos : 
 * [GitFlow](/GitFlow.md)
-* [GitMoji](/gitùoji.md)
+* [GitMoji](/gitmoji.md)
 * [README](/tuto%20readme.md)
 
 ## Organisation
