@@ -2,6 +2,12 @@
 
 TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot avec les consignes ici](https://github.com/kevinniel/MDS-B3-2425-GIT)
 
+## Sommaire
+ Tutos : 
+* [GitFlow]()
+* [GitMoji]()
+* [README](/TP2-versionning/tuto%20readme.md)
+
 ## Organisation
 
  - On va créer 3 issues (et 3 branches correspondantes), une par readme à rédiger
