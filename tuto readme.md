@@ -25,3 +25,33 @@ Voici des exemples de syntaxe que l'on peut retrouver dans un fichier README.md 
 
 ## Quelle est la structure un README ?
 
+La structure d'un readme peut être variable, mais voici un exemple d'oragnisation : 
+
+# Titre du projet
+
+_Une brève description d'en quoi consiste le projet et en quoi il est utile._
+
+## Installation
+
+_Une liste d'instructions expliquant comment mettre le projet en place_
+
+
+## Usage
+
+_Comment utiliser le projet_
+
+## Dev kit
+
+_Ensembles des technologies et dépendances du projet avec leur version_
+
+## Contributeurs
+
+_Ensemble des contributeurs du projet_
+
+## Contributions
+
+_Règles de contributions_
+
+## License
+
+_License du projet_
