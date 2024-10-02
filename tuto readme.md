@@ -15,7 +15,13 @@ Le markdown est un langage de balisage qui permet de simplement ajouter un lien 
 
 Voici des exemples de syntaxe que l'on peut retrouver dans un fichier README.md : 
 
-* ```le bloc de code``` : Permet de rendre plus visible le code, et dans la plupart des dépots distants de copier le code facilement. C'est souvent utilisé pour afficher les commandes à entrer pour l'installation d'un projet par exemple.
+* Le titre : Permet de hiérarchiser et d'organiser le README. Il y a deux manières de le signaler : soit on utilise des #, avec le nombre de # augmentant quand on baisse dans la priorité 
+    * # exemple avec 1 #
+    * ## exemple avec 2 #
+* Le bloc de code : Permet de rendre plus visible le code. C'est souvent utilisé pour afficher les commandes à entrer pour l'installation d'un projet par exemple. On le forme avec trois back tilts (`) encadrant le texte
+ ```exemple```
+* Les liens : Permettent de mettre des liens hypertexte dans le code. Dans le cas d'un README, on peut l'utiliser pour rediriger vers la documentation d'un module utilisé par exemple. On utilise des [] pour le texte cliquable, et des () pour le lien.
+[Exemple qui renvoie vers le dépôt](https://github.com/Sweetie4/TP2-versionning/tree/main)
 
 ## Quelle est la structure un README ?
 
