@@ -10,7 +10,12 @@ Un README, qui peut se traduire littéralement par 'lisez-moi', est un fichier d
  - Qui maintient et contribue au projet 
 
 ## Quel est la syntaxe d'un README ?
+Il peut être un simple fichier texte (.txt), mais aujourd'hui c'est souvent un fichier markdown (.md).
+Le markdown est un langage de balisage qui permet de simplement ajouter un lien derrière un texte ou de varier la taille de la police pour les titres. Sur la plupart des outils de dépots distant, ces fichiers markdown sont interprétés de manière à avoir une table des matières automatiques par exemple.
 
+Voici des exemples de syntaxe que l'on peut retrouver dans un fichier README.md : 
+
+* ```le bloc de code``` : Permet de rendre plus visible le code, et dans la plupart des dépots distants de copier le code facilement. C'est souvent utilisé pour afficher les commandes à entrer pour l'installation d'un projet par exemple.
 
 ## Quelle est la structure un README ?
 
