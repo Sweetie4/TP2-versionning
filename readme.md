@@ -1,6 +1,6 @@
-### ReadMe principal
+# ReadMe principal
 
-# Organisation
+## Organisation
 
  - On va créer 3 issues (et 3 branches correspondantes), une par readme à rédiger
  - Les 3 issues vont constituer notre milestone
