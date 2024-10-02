@@ -1,6 +1,6 @@
  # TP 2 Cours versionning et intégration continue
 
-TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot avec les consigne ici](https://github.com/kevinniel/MDS-B3-2425-GIT)
+TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot avec les consignes ici](https://github.com/kevinniel/MDS-B3-2425-GIT)
 
 ## Organisation
 
