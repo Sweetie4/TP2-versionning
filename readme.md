@@ -8,7 +8,7 @@ TP qui constiste à travailler sur le fonctionnement de Git et Github. [Dépot a
  - Les 3 issues vont constituer notre milestone
  - On utilisera une pull request pour résoudre les issues
 
- Chacun aura une issues à résoudre.
+ Chacun aura une issue à résoudre.
 
 ## Contributeurs
 
